@@ -218,3 +218,16 @@ This project is for evaluation and learning purposes.
 
 ✨ Built with clean architecture, scalability, and real-world backend practices in mind.
 
+
+ScreenShots
+
+![kraftpic1](https://github.com/user-attachments/assets/e225773d-bbbc-4fd8-abc1-bdfa27f20a76)
+![kraftpic2](https://github.com/user-attachments/assets/6a86c154-6390-419f-ba4b-45581676e75a)
+![kraftpic3](https://github.com/user-attachments/assets/d8c4348e-2a95-4cdb-9532-feecddad8509)
+
+![kraftpic4](https://github.com/user-attachments/assets/eb19dbfa-6f7d-43fd-9813-9e92ade54193)
+![kraftpic5](https://github.com/user-attachments/assets/ec83aa4c-dba0-4abb-a995-4c63793b4758)
+![kraftconflict6](https://github.com/user-attachments/assets/bf68831f-a3b4-4dc6-a680-49da96db73e8)
+
+
+
