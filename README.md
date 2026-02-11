@@ -7,7 +7,7 @@ This project was completed as part of a backend assignment with a focus on **RES
 ## 🎥 Demo Video (12 minutes)
 
 Google Drive Link:
-[Watch Here]([https://drive.google.com/xxxx](https://drive.google.com/file/d/1lsd56KWa7Ha3g9XRHaad7v0aDv-o0g8a/view?usp=drivesdk))
+[Watch Here](https://drive.google.com/file/d/1lsd56KWa7Ha3g9XRHaad7v0aDv-o0g8a/view?usp=drivesdk)
 
 
 ---
