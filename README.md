@@ -6,7 +6,7 @@ This project was completed as part of a backend assignment with a focus on **RES
 
 ---
 
-## 🚀 Features
+##  Features
 
 * User management
 * Meeting scheduling
@@ -19,7 +19,7 @@ This project was completed as part of a backend assignment with a focus on **RES
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 * **Node.js**
 * **Express.js**
